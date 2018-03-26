@@ -1,0 +1,7 @@
+psql - c "select * from alumnos_ssi_20172018 where uo != 'UO252406'" ssi_bbdd > uo.txt
+scp alumnossi@156.35.163.123:useradd/plantilla_useradd1718 .
+METER EN LA PLANTILLA:
+sudo usermod -a -G sudo uo252406
+sudo useradd -m -k $SKELL_DIR -g $GRUPO -p $PASSWORD -s $SHELL -b $BASE_DIR $ALUMNO
+
+SESIÓN ANTERIOR LOS PERMISOS EN TYPEDATABASE

@@ -1,0 +1,11 @@
+Para iniciar - > sudo service postgres start
+\s - > historial
+\du -> ver usuarios
+\l -> ver las bases de datos
+\! - > salir  (ctrl d)
+https://www.postgresql.org/ - > documentación
+create user UO252406 superuser password 'seguridad' ; -> crear usuario
+sudo nano /etc/postgresql/10/main/postgresql.conf
+sudo nano /etc/postgresql/10/main/pg_hba.conf
+
+LOS PERMISOS EN TYPEDATABASE!!!!!!!!!!!!!!!
