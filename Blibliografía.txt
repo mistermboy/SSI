@@ -1,0 +1,5 @@
+https://cirt.net/Nikto2
+https://thehackerway.com/2011/05/12/conceptos-basicos-de-nikto-tecnicas-de-escaneo-de-servidores-y-aplicaciones-web/
+https://github.com/sullo/nikto
+https://elbinario.net/2016/09/16/niktoescaner-de-vulnerabilidades-web/
+https://www.hackingtutorials.org/web-application-hacking/scanning-webservers-vulnerabilities-with-nikto/
