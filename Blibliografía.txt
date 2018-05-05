@@ -1,13 +1,6 @@
-https://cirt.net/Nikto2
-https://thehackerway.com/2011/05/12/conceptos-basicos-de-nikto-tecnicas-de-escaneo-de-servidores-y-aplicaciones-web/
-https://github.com/sullo/nikto
-https://elbinario.net/2016/09/16/niktoescaner-de-vulnerabilidades-web/
-https://www.hackingtutorials.org/web-application-hacking/scanning-webservers-vulnerabilities-with-nikto/
-https://es.wikipedia.org/wiki/Nmap
-https://paraisolinux.com/que-es-y-como-usar-nmap/
-https://nmap.org/man/es/index.html#man-description
-https://seguinfo.wordpress.com/2007/06/27/%C2%BFque-es-nmap/
-http://recursostic.educacion.es/observatorio/web/es/component/content/article/1050-zenmap?start=1
-https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide
-https://computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson8/index.html
-https://github.com/llaera/slowloris.pl
+http://www.flu-project.com/2011/09/rainbow-tables-tablas-arco-iris_5.html
+https://security.stackexchange.com/questions/379/what-are-rainbow-tables-and-how-are-they-used
+https://en.wikipedia.org/wiki/Rainbow_table
+http://kestas.kuliukas.com/RainbowTables/
+https://www.genbetadev.com/seguridad-informatica/que-son-y-para-que-sirven-los-hash-funciones-de-resumen-y-firmas-digitales
+Apuntes de clase
