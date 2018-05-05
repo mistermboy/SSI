@@ -8,3 +8,6 @@ https://paraisolinux.com/que-es-y-como-usar-nmap/
 https://nmap.org/man/es/index.html#man-description
 https://seguinfo.wordpress.com/2007/06/27/%C2%BFque-es-nmap/
 http://recursostic.educacion.es/observatorio/web/es/component/content/article/1050-zenmap?start=1
+https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide
+https://computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson8/index.html
+https://github.com/llaera/slowloris.pl
