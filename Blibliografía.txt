@@ -1,6 +1,0 @@
-http://www.flu-project.com/2011/09/rainbow-tables-tablas-arco-iris_5.html
-https://security.stackexchange.com/questions/379/what-are-rainbow-tables-and-how-are-they-used
-https://en.wikipedia.org/wiki/Rainbow_table
-http://kestas.kuliukas.com/RainbowTables/
-https://www.genbetadev.com/seguridad-informatica/que-son-y-para-que-sirven-los-hash-funciones-de-resumen-y-firmas-digitales
-Apuntes de clase
